@@ -352,7 +352,7 @@ h2 {
   }
 
   main .main {
-    margin: 1rem 1rem;
+    margin: 1rem 0.2rem;
   }
 
   #h1{
@@ -382,7 +382,7 @@ h2 {
   .burger-price
   {
     padding: 2rem;
-    width: 15rem;
+    margin: 1rem 2rem;
     font-size: 1rem;
     margin-bottom: 1.3rem;
   }
