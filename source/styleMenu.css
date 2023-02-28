@@ -115,12 +115,8 @@ h1:hover {
 }
 
 #h1 {
-  text-underline-position: under;
-  text-decoration: underline orange;
-  text-decoration-style: wavy;
-  -webkit--text-decoration: underline orange;
-  -webkit-text-decoration-style: wavy;
-  -webkit-text-underline-position: under;
+  text-decoration: underline wavy orange;
+  -webkit--text-decoration: underline wavy orange;
 }
 .main h1,
 h2 {
@@ -512,7 +508,7 @@ h2 {
     color: white;
     background-color: rgb(240, 174, 52);
   }
-  
+
   .main {
     margin: 4rem 3rem;
   }
