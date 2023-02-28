@@ -382,12 +382,14 @@ h2 {
   .burger-price
   {
     padding: 2rem;
+    width: 15rem;
     font-size: 1rem;
     margin-bottom: 1.3rem;
   }
 
   .drink-price {
     margin-bottom: 1.3rem;
+
   }
 
   .price {
@@ -403,6 +405,7 @@ h2 {
 
   .drink {
     width: 10rem;
+    height: 8rem;
   }
   .burger span,
   .drink span {
@@ -415,7 +418,7 @@ h2 {
     justify-content: center;
     align-items: center;
     width: 20rem;
-    height: 45rem;
+    height: 50rem;
   }
 
   .main #third-main h1 {
